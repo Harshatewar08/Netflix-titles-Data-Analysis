@@ -10,6 +10,7 @@ This project involves an in-depth analysis of Netflix's dataset using Python, Pa
 The dataset used in this project is sourced from Kaggle. It contains information about Netflix shows, including titles, genres, release years, ratings, and more.
 
 > **Results**
+
 The analysis provided valuable insights into the distribution of content across different categories and helped identify popular genres and trends over time.
 
 > **Key findings include:**
